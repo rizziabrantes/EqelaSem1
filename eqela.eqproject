@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Sem1Eqela
+#
+
+projectname: Sem1Eqela
+vendorid: com.mycompany
+mainmodule: com.mycompany.sem1eqela
